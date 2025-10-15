@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img class="w-full" alt="An animation of pacman eating the github user contribuitions (like pacman game)" src="/assets/pacman.svg">
 
 ###
