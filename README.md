@@ -42,8 +42,15 @@
 
 ###
 
-<br clear="both">
+<| Title | Stars | Technologies |
+|-------|-------|--------------|
+| <a href="https://github.com/monkey531/EMSUGI">EMSUGI</a> | <img src="https://img.shields.io/github/stars/monkey531/EMSUGI?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> <img src="https://img.shields.io/badge/Flask-black?style=flat-square&amp;logo=flask" alt="Flask"> <img src="https://img.shields.io/badge/pandas-black?style=flat-square&amp;logo=pandas" alt="pandas"> <img src="https://img.shields.io/badge/matplotlib-black?style=flat-square&amp;logo=matplotlib" alt="matplotlib"> <img src="https://img.shields.io/badge/Torch-black?style=flat-square&amp;logo=pytorch" alt="torch"> <img src="https://img.shields.io/badge/Transformers-black?style=flat-square&amp;logo=huggingface" alt="transformers"> |
+| <a href="https://github.com/monkey531/gemgpt">GemGPT</a> | <img src="https://img.shields.io/github/stars/monkey531/gemgpt?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> <img src="https://img.shields.io/badge/Gradio-black?style=flat-square&amp;logo=gradio" alt="Gradio"> <img src="https://img.shields.io/badge/Transformers-black?style=flat-square&amp;logo=transformers" alt="Transformers"> <img src="https://img.shields.io/badge/LLM-black?style=flat-square&amp;logo=artificial-intelligence" alt="LLM"> |
+| <a href="https://github.com/monkey531/finetune-web-ui">finetune-web-ui</a> | <img src="https://img.shields.io/github/stars/monkey531/finetune-web-ui?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Unsloth-black?style=flat-square&amp;logo=unsloth" alt="Unsloth"> <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> <img src="https://img.shields.io/badge/Gradio-black?style=flat-square&amp;logo=gradio" alt="Gradio"> <img src="https://img.shields.io/badge/Transformers-black?style=flat-square&amp;logo=transformers" alt="Transformers"> <img src="https://img.shields.io/badge/LLM-black?style=flat-square&amp;logo=artificial-intelligence" alt="LLM"> <img src="https://img.shields.io/badge/Triton-black?style=flat-square&amp;logo=triton" alt="Triton"> |
+| <a href="https://github.com/monkey531/gpt">GPT</a> | <img src="https://img.shields.io/github/stars/monkey531/gpt?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> <img src="https://img.shields.io/badge/Numpy-black?style=flat-square&amp;logo=numpy" alt="Numpy"> <img src="https://img.shields.io/badge/Transformers-black?style=flat-square&amp;logo=transformers" alt="Transformers"> <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&amp;logo=pytorch" alt="PyTorch"> |
 
-<img class="w-full" alt="An animation of pacman eating the github user contribuitions (like pacman game)" src="/assets/pacman.svg">
+</td></tr>
+<tr><th>Mobile Application Projects</th></tr>
+<tr><td>
 
 ###
