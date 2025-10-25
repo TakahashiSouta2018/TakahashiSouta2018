@@ -1,4 +1,5 @@
-<h1 font-size="30px" align="center>  Hi! I’m Takahashi Souta,</h1>
+<div font-size="30px" align="center>  Hi! I’m Takahashi Souta,</div>
+ 
 <div align="center font-size="25px">
  I am a passionate Fullstack Developer specializing in building scalable web applications and interactive user experiences.
  I love bridging the gap between frontend and backend, creating projects that are both visually appealing and technically robust.
