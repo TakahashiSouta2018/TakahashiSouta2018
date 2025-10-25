@@ -5,7 +5,7 @@
 <div align="center>
  I love bridging the gap between frontend and backend, creating projects that are both visually appealing and technically robust.
 </div>
-<div align="center"  font-size="25px">
+<div align="center">
   <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
 <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
   <h2> 🔥 My Tech Stacks! </h2><br>
