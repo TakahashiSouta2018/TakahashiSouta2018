@@ -1,9 +1,4 @@
-<p font-size="30px" align="center>  Hi! I’m Takahashi Souta,</p>
- 
-<p align="center font-size="25px">
- I am a passionate Fullstack Developer specializing in building scalable web applications and interactive user experiences.
- I love bridging the gap between frontend and backend, creating projects that are both visually appealing and technically robust.
-</p>
+
 <div align="center">
   <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
 <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
